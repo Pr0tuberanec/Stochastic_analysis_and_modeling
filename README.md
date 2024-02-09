@@ -1,1 +1,1 @@
-# Stochastic_analysis_and_modeling
+Задачи 7-11 ещё не оформил
